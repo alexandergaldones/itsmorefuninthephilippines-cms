@@ -1,0 +1,13 @@
+{
+  "name": "@keystone-alpha/file-adapters",
+  "description": "Adapters for handling storage of the File type",
+  "version": "2.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/keystonejs/keystone-5.git",
+  "author": "The Keystone Development Team",
+  "license": "MIT",
+  "dependencies": {
+    "cloudinary": "^1.13.2",
+    "mkdirp": "^0.5.1"
+  }
+}
